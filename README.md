@@ -1,5 +1,5 @@
 
-# chatbot-server
+# ChatBot Server
 ChatBot Server with Socket.IO &amp; MongoDB
 
 ## Require module
