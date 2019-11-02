@@ -19,19 +19,19 @@
         "express": "^4.17.1",
         "express-flash": "0.0.2",
         "lorca-nlp": "^1.0.12",
-        "mongoose": "^5.6.9",
+        "mongoose": "^5.7.7",
         "npm-check": "^5.9.0",
         "passport": "^0.4.0",
         "passport-local": "^1.0.0",
-        "socket.io": "^2.2.0",
+        "socket.io": "^2.3.0",
         "uuid": "^3.3.3",
-        "ws": "^7.1.2"
+        "ws": "^7.2.0"
     },
     "devDependencies": {
-        "@babel/cli": "^7.5.5",
-        "@babel/node": "^7.5.5",
-        "@babel/core": "^7.5.5",
-        "@babel/preset-env": "^7.5.5",
+        "@babel/cli": "^7.6.4",
+        "@babel/core": "^7.6.4",
+        "@babel/node": "^7.6.3",
+        "@babel/preset-env": "^7.6.3",
         "babel-watch": "^7.0.0"
     }
 }

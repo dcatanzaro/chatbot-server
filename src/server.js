@@ -11,10 +11,7 @@ import ServiceLogicChat from "./service/logic";
 import routes from "./routes";
 import passportConfig from "./config/passport";
 
-mongoose.connect(
-    "mongodb://localhost/chatbot",
-    { useNewUrlParser: true }
-);
+mongoose.connect("mongodb://localhost/chatbot", { useNewUrlParser: true });
 
 const app = express();
 const io = require("socket.io")(3030);
