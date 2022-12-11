@@ -16,7 +16,7 @@
         "cookie-parser": "^1.4.4",
         "cookie-session": "^2.0.0-beta.3",
         "cors": "^2.8.5",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "express-flash": "0.0.2",
         "lorca-nlp": "^1.0.12",
         "mongoose": "^5.7.7",
